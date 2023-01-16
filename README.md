@@ -27,6 +27,3 @@ Scripts from 71 to 75
 
 # Week 8
 Scripts from 81 to 83
-
-# Week 9
-Final Project
