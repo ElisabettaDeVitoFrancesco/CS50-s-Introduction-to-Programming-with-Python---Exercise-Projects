@@ -1,12 +1,12 @@
 # CS50-s-Introduction-to-Programming-with-Python---Projects
-Scripts of all the small and final projects created during the CS50'S Introduction to Programming with Python course
+#Scripts of all the small and final projects created during the CS50'S Introduction to Programming with Python course
 
-Week 0
-Scripts from 01 to 05
-
-Week 1
-Scripts from 11 to 15
-
+# Week 0
+# Scripts from 01 to 05
+#
+# Week 1
+# Scripts from 11 to 15
+#
 Week 2
 Scripts from 21 to 2
 
